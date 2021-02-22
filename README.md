@@ -8,6 +8,7 @@ Shoot evil red blobs before they hit you! Stay alive as long as possible to get 
 - pygame
 
 ## Installation and run
+Download the code and run these commands on commandline:
 
 ```
 pip install pygame
