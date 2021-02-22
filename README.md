@@ -1,5 +1,17 @@
 # Blob goes brr!
 
-## Install
-´pip install pygame
-python blob_goes_brr!.py´
+## Prerequisites
+
+- Python 3.9
+- pygame
+
+## Installation and run
+
+```
+pip install pygame
+python Blob_goes_brr!.py
+```
+
+### Author
+
+Application made by Antti Minkkinen
