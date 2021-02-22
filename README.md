@@ -16,4 +16,4 @@ python Blob_goes_brr!.py
 
 ### Author
 
-Application made by Antti Minkkinen
+Game made by Antti Minkkinen
